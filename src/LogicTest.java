@@ -30,7 +30,7 @@ class LogicTest {
         logic.addRow("C");
 
         int actual = logic.rowCount();
-        assertEquals(2,actual);
+        assertEquals(3,actual);
     }
 
     // Testar antal tecken i rader.
